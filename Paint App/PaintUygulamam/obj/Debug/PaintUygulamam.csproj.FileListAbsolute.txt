@@ -1,0 +1,10 @@
+C:\Users\Can\Desktop\My Paint\PaintUygulamam\PaintUygulamam\obj\Debug\PaintUygulamam.csprojAssemblyReference.cache
+C:\Users\Can\Desktop\My Paint\PaintUygulamam\PaintUygulamam\obj\Debug\PaintUygulamam.Form1.resources
+C:\Users\Can\Desktop\My Paint\PaintUygulamam\PaintUygulamam\obj\Debug\PaintUygulamam.Properties.Resources.resources
+C:\Users\Can\Desktop\My Paint\PaintUygulamam\PaintUygulamam\obj\Debug\PaintUygulamam.csproj.GenerateResource.cache
+C:\Users\Can\Desktop\My Paint\PaintUygulamam\PaintUygulamam\obj\Debug\PaintUygulamam.csproj.CoreCompileInputs.cache
+C:\Users\Can\Desktop\My Paint\PaintUygulamam\PaintUygulamam\bin\Debug\PaintUygulamam.exe.config
+C:\Users\Can\Desktop\My Paint\PaintUygulamam\PaintUygulamam\bin\Debug\PaintUygulamam.exe
+C:\Users\Can\Desktop\My Paint\PaintUygulamam\PaintUygulamam\bin\Debug\PaintUygulamam.pdb
+C:\Users\Can\Desktop\My Paint\PaintUygulamam\PaintUygulamam\obj\Debug\PaintUygulamam.exe
+C:\Users\Can\Desktop\My Paint\PaintUygulamam\PaintUygulamam\obj\Debug\PaintUygulamam.pdb
